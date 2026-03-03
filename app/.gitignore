@@ -1,0 +1,10 @@
+# Local environment variables
+.env
+.env.dev
+.env.prod
+.env.test
+.env.local
+app/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
